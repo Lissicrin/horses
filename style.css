@@ -1,0 +1,190 @@
+.op{
+	text-align: center;
+}
+body{
+	background-color: #D8EAFF;
+	font-size: 16px;
+
+}
+.lox{
+	text-align: right;
+	height: 300px;
+}
+.xol{
+	height: 400px;
+	text-align: left;
+}
+.myny{
+	color: white;
+	font-weight: bold;
+	background-color: #233D5C;
+	padding: 12px 24px;
+	border-radius: 65px;
+	position: fixed;
+	height: 100%;
+
+}
+
+.muny a{
+	color: #fff;
+	width: 100%;
+	display: block;
+	padding: 8px 16px;
+	text-decoration: solid;
+	
+
+}
+
+
+
+.muny a:hover{
+	background-color: #0E152F;
+	color:#E1E2FF;
+}
+.kont{
+	margin-left: 250px;
+}
+
+.text1{
+	display: inline-block;
+	width: 55%;
+	margin-left:21px;
+
+}
+.text2{
+	display: inline-block;
+	width: 55%;
+	margin-left:21px;
+}
+
+.tere{
+	width: 40%;
+	background-color: #4A79BB;
+	display: inline-block;
+	text-align: center;
+	border-radius: 10px;
+}
+.terefs{
+	margin: 0 auto;
+	margin-top: 89px;
+	position: relative;
+}
+
+.hazvant{
+	background-color: #000000;
+	color: #fff;
+	font-size: 24px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	padding: 32px 0;
+}
+
+.tere li{
+	list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.terefs ul {
+	background-color: white;
+	color: black;
+	padding: 0;
+	margin: 0;
+	background-color: #f1f1f1;
+	border-radius:10px;
+}
+
+.terefs li {
+	list-style-type: none;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #dddddd;
+	border-radius:10px;
+	padding: 16px 0;
+}
+
+
+.terefs .terefs-name {
+	color: white;
+	background-color: black;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	font-size: 24px;
+	padding: 32px 0;
+	background-color: #45015d;
+}
+
+.terefs .zena {
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.terefs .vremya {
+	opacity: 0.7;
+}
+
+.terefs button {
+	color: #45015d;
+	background-color: white;
+	border-radius:20px;
+	padding: 15px 20px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: inherit;
+	font-size: 16px;
+
+   }
+
+.contact input{
+	border: 2px solid #ccc;
+
+}
+
+
+
+
+
+
+
+
+.contact input {
+	border: 1px solid #ccc;
+	outline: none;
+	padding: 8px;
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+	font-size: 16px;
+}
+
+.contact button {
+	border: none;
+	outline: none;
+	color: #fff;
+	background-color: #233D5C;
+	border-radius:10px;
+	padding: 12px 24px;
+	display: block;
+	width: 100%;
+	cursor: pointer;
+	font-family: inherit;
+	font-size: 16px;
+}
+
+.contact button:hover {
+	color: #000;
+	background-color: #ccc;
+}
+
+
+
